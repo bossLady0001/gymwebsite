@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+nav{
+    background: #000;
+    position: fixed;
+    /* border-bottom: 1px solid #E64201; */
+   
+
+}
+/* 
+nav a{
+    color: #E64201 !important;
+} */
+

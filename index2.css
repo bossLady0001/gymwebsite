@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background: #1c8394;
+    padding: 20px 25px;
+}
+
+.maintext h2{
+    font-size: 65px !important;
+    color: #154b52;
+}
+.maintext p{
+    color: #154b52;
+}
+.maintext button{
+    width: 200px;
+    height: 50px;
+    background: #1c8394;
+    color: #000b0d;
+    border-radius: 10px;
+}
+span{
+    color: #1c8394;
+}
+.views{
+    border: 1px solid #000;
+    height: 90vh;
+    width: 100%;
+    /* background: #154b52; */
+}
+.views img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.main{
+    background: #000;
+    /* height: 90vh; */
+}
+
+.values{
+    /* height: 100vh; */
+    background: #154b52;
+    color: #000b0d;
+}
+.car{
+    height: 200px !important;
+    width: 300px;
+    /* border: 1px solid #000; */
+    /* display: flex !important; */
+    gap: 10px;
+    box-shadow: 1px 1px 6px #1c8394;
+}
+.ima{
+    width: 50%;
+    height: 100%;
+}
+.ima img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.program{
+    /* height: 60vh; */
+    background: #154b52;
+}
+.box{
+    height: 300px;
+    width: 250px;
+    /* border: 1px solid #000; */
+}
+
+.box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.program h2{
+    color: #000b0d;
+}
+.program p{
+    color: #000b0d;
+}
+.content{
+    border-radius: 50%;
+}
+/* .abou{ */
+    /* height: 80vh; */
+    /* background: #000b0d; */
+/* }
+.about.unholy{
+    border: 1px solid #000;
+    height: 400px;
+    width: 400px;
+}
+.about img{
+    width: 100px;
+    height: 100px;
+} */
+
+
